@@ -1,0 +1,30 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    float: 0.35;
+}
+
+.sidebar_header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-right: 1px solid lightgray;
+}
+
+.sidebar_headerRight{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 10vw;
+
+}
+
+.sidebar_icons_avatar{
+    font-size: 28px !important;
+    margin-right: 3vw;
+}
+.sidebar_icons{
+    margin-right:0.5vw;
+    font-size: 24px !important;
+
+}
