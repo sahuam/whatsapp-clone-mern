@@ -49,6 +49,6 @@
 .sidebar_chat{
     display: flex;
     flex-direction: column; 
-
+    background-color: white;
 }
 
